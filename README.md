@@ -5,7 +5,6 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My tech toolkit includes JavaScript, React, HTML, and CSS.
 
-I’ve got several pinned projects here — my favorites are [your favorite projects].
 I’ve built many public repositories, and with private ones included, the number is probably well over 200 at this point.
 
 🔭 I’m currently working on improving my front-end projects and building real-world web applications.
@@ -13,7 +12,8 @@ I’ve built many public repositories, and with private ones included, the numbe
 👯 I’m looking to collaborate on creative web apps and meaningful open-source projects.
 🤔 I’m looking for help with scaling applications and writing more efficient architecture.
 💬 Ask me about front-end development, responsive design, and clean UI building.
-📫 How to reach me: www.linkedin.com/in/JoyMisra
+📫 How to reach me: www.linkedin.com/in/JoyMisra 
+⭐ Checkout My Portfolio: https://dragorod.github.io/JoyPortfolio/
 
 😄 Pronouns: he/him
 
